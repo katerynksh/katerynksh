@@ -13,11 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=katerynksh&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=katerynksh&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=katerynksh&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
+![](https://github-profile-trophy.vercel.app/?username=katerynksh&theme=dracula&no-frame=true&no-bg=false&margin-w=4) 
 ---
 [![](https://visitcount.itsvg.in/api?id=katerynksh&icon=9&color=10)](https://visitcount.itsvg.in)
 
